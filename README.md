@@ -1,2 +1,2 @@
 # Nicehoice
-for improving my daily life !
+Improving my daily life !
